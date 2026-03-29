@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         <p class="price">${product.price}</p>
                         <div class="action-buttons-small">
                             <!-- Link directly to WhatsApp with pre-filled message for this product -->
-                            <a href="https://wa.me/254706515679?text=Hello!%20I'm%20interested%20in%20ordering%20${product.name}." class="whatsapp-btn-small" target="_blank" rel="noopener noreferrer">
+                            <a href="https://wa.me/254706758981?text=Hello!%20I'm%20interested%20in%20ordering%20${product.name}." class="whatsapp-btn-small" target="_blank" rel="noopener noreferrer">
                                 <i class="fab fa-whatsapp"></i> Order
                             </a>
                         </div>
